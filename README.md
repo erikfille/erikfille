@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
-<h3 align="center">A passionate frontend developer from Argentina, constantly learning something new</h3>
+<h3 align="center">A passionate frontend developer (soon to be fullstack) from Argentina, constantly learning something new</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikfille&label=Profile%20views&color=0e75b6&style=flat" alt="erikfille" /> </p>
 
