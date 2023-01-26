@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">A passionate frontend developer (soon to be fullstack) from Argentina, constantly learning something new</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erikfille&label=Profile%20views&color=0e75b6&style=flat" alt="erikfille" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikfille&label=Profile%20views&color=0e75b6&style=flat" alt="erikfille" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/erikfilleaudeau" target="blank"></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/erikfilleaudeau" target="blank"></a> </p> -->
 
 - 🌱 I’m currently learning **MongoDb & AWS**
 
