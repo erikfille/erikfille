@@ -1,4 +1,5 @@
-![Banner-Twitter---Tech](https://user-images.githubusercontent.com/109306990/216468842-eb87fd08-c4f2-45e7-a37d-a81ce6f52bfb.jpg)
+![Banner-Linkedin-Tech](https://user-images.githubusercontent.com/109306990/216468946-860507a0-91d2-4a97-b261-97ec0d667f38.jpg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikfille&label=Profile%20views&color=0e75b6&style=flat" alt="erikfille" /> </p>
 
