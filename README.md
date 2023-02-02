@@ -1,7 +1,6 @@
 ![Banner-Twitter---Tech](https://user-images.githubusercontent.com/109306990/216469490-3239e1cb-99f3-4f1c-9cb7-ab774865b151.jpg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erikfille&label=Profile%20views&color=0e75b6&style=flat" alt="erikfille" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Erik</h1>
@@ -21,3 +20,5 @@
 <a href="https://twitter.com/erikfilleaudeau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erikfilleaudeau" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/erikfilleaudeau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/erikfilleaudeau/" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erikfille&label=Profile%20views&color=0e75b6&style=flat" alt="erikfille" /> </p>
