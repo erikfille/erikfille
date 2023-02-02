@@ -4,10 +4,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Erik</h1>
-<h3 align="center">A passionate frontend developer (soon to be fullstack) from Argentina, constantly learning something new</h3>
+<h3 align="center">A passionate Fullstack Dev from Argentina, constantly learning something new</h3>
 
 
-- 🌱 I’m currently learning **MongoDb & AWS**
+- 🌱 I’m currently learning **MongoDb, AWS & Angular**
 
 - 📫 How to reach me **erikfilleaudeau@gmail.com**
 
