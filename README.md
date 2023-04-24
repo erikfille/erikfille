@@ -8,10 +8,10 @@
 
 <br/>
 
-<h4>¿What I'm currently doing?</h4>
+<h3>¿What I'm currently doing?</h3>
 I'm currently working as a Front-End Developer with React.js and Vue.js, while learning <strong>Typescript, MongoDb & AWS</strong>
 
-<h4> ¡Let's talk! </h4>
+<h3> ¡Let's talk! </h3>
 <strong>erikfilleaudeau@gmail.com</strong>
 
 
