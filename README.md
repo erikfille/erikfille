@@ -8,9 +8,11 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Typescript, MongoDb & AWS**
+<h4>¿What I'm currently doing?</h4>
+I'm currently working as a Front-End Developer with React.js and Vue.js, while learning **Typescript, MongoDb & AWS**
 
-- 📫 How to reach me **erikfilleaudeau@gmail.com**
+<h4> ¡Let's talk! </h4>
+**erikfilleaudeau@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
