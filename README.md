@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Erik</h1>
-<h3 align="center">A passionate Fullstack Dev from Argentina, constantly learning something new</h3>
+<h3 align="center">A passionate Fullstack Dev from Argentina, a restless mind constantly learning something new, and a great team player</h3>
 
 
 - 🌱 I’m currently learning **Typescript, MongoDb & AWS**
