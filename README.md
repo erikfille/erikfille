@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Fullstack Dev from Argentina, constantly learning something new</h3>
 
 
-- 🌱 I’m currently learning **MongoDb, AWS & Angular**
+- 🌱 I’m currently learning **Typescript, MongoDb & AWS**
 
 - 📫 How to reach me **erikfilleaudeau@gmail.com**
 
