@@ -6,6 +6,7 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">A passionate Fullstack Dev from Argentina, a restless mind constantly learning something new, and a great team player with some shades of team leader</h3>
 
+<br/>
 
 - 🌱 I’m currently learning **Typescript, MongoDb & AWS**
 
