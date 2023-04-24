@@ -9,10 +9,10 @@
 <br/>
 
 <h4>¿What I'm currently doing?</h4>
-I'm currently working as a Front-End Developer with React.js and Vue.js, while learning **Typescript, MongoDb & AWS**
+I'm currently working as a Front-End Developer with React.js and Vue.js, while learning <strong>Typescript, MongoDb & AWS</strong>
 
 <h4> ¡Let's talk! </h4>
-**erikfilleaudeau@gmail.com**
+<strong>erikfilleaudeau@gmail.com</strong>
 
 
 <h3 align="left">Languages and Tools:</h3>
