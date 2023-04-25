@@ -12,7 +12,7 @@
 I'm currently working as a Front-End Developer with React.js and Vue.js, while learning <strong>Typescript, MongoDb & AWS</strong>
 
 <h3> ¡Let's talk! </h3>
-<strong>erikfilleaudeau@gmail.com</strong>
+erikfilleaudeau@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
