@@ -9,7 +9,7 @@
 <br/>
 
 <h3>¿What I'm currently doing?</h3>
-I'm currently working as a Front-End Developer with React.js and Vue.js, while learning <strong>Typescript, Angular & MongoDb</strong>
+I'm currently working as a Full Stack Dev with technologies such as React.js, Vue.js (Redux and Vuex included), Express, Sequelize and PostgreSQL, while learning <strong>Typescript, Next.js, Angular & MongoDb</strong>.
 
 <h3> ¡Let's talk! </h3>
 erikfilleaudeau@gmail.com
