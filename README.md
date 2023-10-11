@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/109306990/216469490-3239e1cb-99f3-4f1c-9cb7-ab774865b151.jpg" alt="Banner">
 
 
-<h1 align="center">Hi 👋, I'm Erik</h1>
+<h1 align="center" style="text-decoration:none">Hi 👋, I'm Erik</h1>
 <h3 align="center">A passionate Fullstack Dev from Argentina, a restless mind constantly learning something new, and a great team player with some shades of team leader</h3>
 
 <h3>¿What I'm currently doing?</h3>
