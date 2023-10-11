@@ -1,6 +1,4 @@
-![Banner-Twitter---Tech](https://user-images.githubusercontent.com/109306990/216469490-3239e1cb-99f3-4f1c-9cb7-ab774865b151.jpg)
-
-
+<img src="https://user-images.githubusercontent.com/109306990/216469490-3239e1cb-99f3-4f1c-9cb7-ab774865b151.jpg" alt="Banner">
 
 
 <h1 align="center"> Hi 👋, I'm Erik </h1>
